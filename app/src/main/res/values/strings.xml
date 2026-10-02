@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vin Gallery</string>
+
+    <string name="tab_photos">Foto</string>
+    <string name="tab_albums">Album</string>
+
+    <string name="permission_title">Izin akses foto</string>
+    <string name="permission_rationale">Vin Gallery membutuhkan izin untuk membaca foto di perangkatmu agar bisa menampilkan galeri. Tanpa izin ini, aplikasi tidak bisa menampilkan foto.</string>
+    <string name="permission_allow">Izinkan</string>
+    <string name="permission_later">Nanti</string>
+    <string name="permission_denied_title">Izin ditolak</string>
+    <string name="permission_denied_message">Kamu menolak izin akses foto, jadi galeri tidak bisa ditampilkan. Kamu bisa mengaktifkannya kapan saja lewat Pengaturan aplikasi.</string>
+    <string name="permission_settings">Buka Pengaturan</string>
+
+    <string name="empty_photos">Belum ada foto di perangkat ini</string>
+    <string name="empty_albums">Belum ada album</string>
+    <string name="empty_album_detail">Album ini kosong</string>
+
+    <string name="photo_count">%1$d foto</string>
+
+    <string name="back">Kembali</string>
+    <string name="share_via">Bagikan lewat</string>
+
+    <string name="delete_title">Hapus foto?</string>
+    <string name="delete_message">Foto \"%1$s\" akan dihapus permanen dari perangkat. Lanjutkan?</string>
+    <string name="delete_confirm">Hapus</string>
+    <string name="cancel">Batal</string>
+    <string name="deleted">Foto dihapus</string>
+    <string name="delete_failed">Gagal menghapus foto</string>
+    <string name="delete_cancelled">Penghapusan dibatalkan</string>
+
+    <string name="added_to_favorites">Ditambahkan ke Favorit</string>
+    <string name="removed_from_favorites">Dihapus dari Favorit</string>
+</resources>
